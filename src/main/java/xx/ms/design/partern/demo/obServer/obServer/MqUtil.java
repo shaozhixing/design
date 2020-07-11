@@ -1,4 +1,4 @@
-package xx.ms.design.partern.demo.obServer;
+package xx.ms.design.partern.demo.obServer.obServer;
 
 /**
  * @author: shaozhixing

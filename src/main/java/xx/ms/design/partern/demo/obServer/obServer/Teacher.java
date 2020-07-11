@@ -1,4 +1,4 @@
-package xx.ms.design.partern.demo.obServer;
+package xx.ms.design.partern.demo.obServer.obServer;
 
 import java.util.Observable;
 import java.util.Observer;
